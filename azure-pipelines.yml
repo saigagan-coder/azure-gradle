@@ -18,3 +18,5 @@ steps:
 
   - script: gradle run
     displayName: 'Running'
+  - script: gradle display
+    displayName: 'run main method'
